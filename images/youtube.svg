@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="677.33331mm"
+   height="381mm"
+   viewBox="0 0 677.33331 381"
+   version="1.1"
+   id="svg6303"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="youtube.svg">
+  <defs
+     id="defs6297" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56250002"
+     inkscape:cx="1280"
+     inkscape:cy="720"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6300">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,84)">
+    <rect
+       style="opacity:1;fill:#cc181e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.37692881;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6305"
+       width="677.33331"
+       height="381"
+       x="-3.5527137e-015"
+       y="-84" />
+    <g
+       id="g6959"
+       transform="matrix(0.83631103,0,0,0.83631103,214.47405,-17.692606)">
+      <g
+         id="g6901">
+        <path
+           id="path6895"
+           d="M 286.542,0 H 10.458 C 4.682,0 0,4.682 0,10.458 v 155.298 c 0,5.775 4.682,10.458 10.458,10.458 h 276.085 c 5.775,0 10.458,-4.682 10.458,-10.458 V 10.458 C 297,4.682 292.318,0 286.542,0 Z M 276.085,155.298 H 20.916 V 20.916 h 255.169 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path6897"
+           d="m 286.542,189.808 h -69.021 c -5.775,0 -10.458,4.682 -10.458,10.458 v 24.053 h -13.595 v -24.053 c 0,-5.775 -4.683,-10.458 -10.458,-10.458 h -69.021 c -5.775,0 -10.458,4.682 -10.458,10.458 v 24.053 H 89.937 v -24.053 c 0,-5.775 -4.683,-10.458 -10.458,-10.458 H 10.458 C 4.682,189.808 0,194.491 0,200.266 v 51.766 c 0,5.775 4.682,10.458 10.458,10.458 h 41.308 v 24.053 c 0,5.775 4.682,10.458 10.458,10.458 h 69.021 c 5.775,0 10.458,-4.682 10.458,-10.458 V 262.49 h 13.595 v 24.053 c 0,5.775 4.682,10.458 10.458,10.458 h 69.021 c 5.775,0 10.458,-4.682 10.458,-10.458 V 262.49 h 41.308 c 5.775,0 10.458,-4.683 10.458,-10.458 V 200.266 C 297,194.491 292.318,189.808 286.542,189.808 Z M 51.766,234.776 v 6.798 h -30.85 v -30.85 h 48.106 v 13.595 h -6.798 c -5.776,0 -10.458,4.682 -10.458,10.457 z m 69.021,41.309 H 72.681 v -30.85 h 48.106 z m 20.915,-34.511 v -6.798 c 0,-5.775 -4.682,-10.458 -10.458,-10.458 h -6.798 v -13.595 h 48.106 v 13.595 h -6.798 c -5.775,0 -10.458,4.683 -10.458,10.458 v 6.798 z m 82.617,34.511 h -48.106 v -30.85 h 48.106 z m 51.766,-34.511 h -30.85 v -6.798 c 0,-5.775 -4.683,-10.458 -10.458,-10.458 h -6.798 v -13.595 h 48.106 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path6899"
+           d="m 117.682,131.837 c 1.546,0.828 3.243,1.238 4.934,1.238 2.029,0 4.052,-0.59 5.802,-1.757 l 51.766,-34.511 c 2.91,-1.939 4.657,-5.204 4.657,-8.701 0,-3.497 -1.747,-6.762 -4.657,-8.701 l -51.766,-34.51 c -3.207,-2.14 -7.335,-2.342 -10.736,-0.519 -3.4,1.82 -5.523,5.364 -5.523,9.22 v 69.021 c 0,3.856 2.124,7.4 5.523,9.22 z m 15.393,-58.7 22.456,14.97 -22.456,14.97 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g6903" />
+      <g
+         id="g6905" />
+      <g
+         id="g6907" />
+      <g
+         id="g6909" />
+      <g
+         id="g6911" />
+      <g
+         id="g6913" />
+      <g
+         id="g6915" />
+      <g
+         id="g6917" />
+      <g
+         id="g6919" />
+      <g
+         id="g6921" />
+      <g
+         id="g6923" />
+      <g
+         id="g6925" />
+      <g
+         id="g6927" />
+      <g
+         id="g6929" />
+      <g
+         id="g6931" />
+    </g>
+  </g>
+</svg>
